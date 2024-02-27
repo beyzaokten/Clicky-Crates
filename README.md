@@ -15,5 +15,8 @@ Fruit Ninja  is a game inspired by the classic Fruit Ninja game, built using Uni
 - Click on the difficulty level buttons to select the desired difficulty.
 
 # Screenshots
+![fn](https://github.com/beyzaokten/Fruit-Ninja/assets/95380183/c9c0226e-f0e8-474c-b3e9-a77d87a70d65)
+
+![fn2](https://github.com/beyzaokten/Fruit-Ninja/assets/95380183/79e360ea-5ad7-47ea-a6c1-e338b2d05af5)
 
 
